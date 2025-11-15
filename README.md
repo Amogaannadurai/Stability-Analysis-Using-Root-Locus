@@ -19,11 +19,13 @@ Computer with MATLAB software
 	From the value of K, analyse the stability.
 
 ## Program: 
+```
 num = [1];
 den = [1 15 50 0];
 sys = tf(num,den);
 rlocus (sys);
 [k poles] = rlocfind(sys);
+```
 
 ## Output:
 <img width="1920" height="1080" alt="Screenshot 2025-11-15 211113" src="https://github.com/user-attachments/assets/f41fab13-86e7-4745-a9eb-8d90c3cde55b" />
