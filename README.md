@@ -9,7 +9,6 @@ Computer with MATLAB software
 ![IMG-20251115-WA0065](https://github.com/user-attachments/assets/4a8cd3e2-5d29-4e03-ba65-75b9bfebb9ff)
 ![IMG-20251115-WA0066](https://github.com/user-attachments/assets/2423134a-f921-4a52-acb4-6f2c1bd0376a)
 ![IMG-20251115-WA0067](https://github.com/user-attachments/assets/820fb044-7e9c-4f94-99cb-7b9b1bec573e)
-
 ## Procedure:
 	Open MATLAB software
 	Open a new script file.
